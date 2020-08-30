@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SfBrLKV5gLfjI8XwqbrfEZr1sDvx8jy3PZASEQoIecC/meEqicWT2mCViAPjjIpCS9e/xA8Sh8a8vdqRSDSUxg==",
+  "dgSpecHash": "gU7t17g3pNrB82oRAk2jldpSWODGwRWrVyg/eDw6GhDtB8xHXfhKXuXsCSaCBVTLoy1WqWc20dRks8D+9397hA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\H413495\\source\\repos\\openshift-demo\\openshift-demo.csproj",
+  "projectFilePath": "C:\\Users\\h413495\\source\\repos\\openshift-demo\\openshift-demo\\openshift-demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

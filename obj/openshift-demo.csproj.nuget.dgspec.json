@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\H413495\\source\\repos\\openshift-demo\\openshift-demo.csproj": {}
+    "C:\\Users\\h413495\\source\\repos\\openshift-demo\\openshift-demo\\openshift-demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\H413495\\source\\repos\\openshift-demo\\openshift-demo.csproj": {
+    "C:\\Users\\h413495\\source\\repos\\openshift-demo\\openshift-demo\\openshift-demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\H413495\\source\\repos\\openshift-demo\\openshift-demo.csproj",
+        "projectUniqueName": "C:\\Users\\h413495\\source\\repos\\openshift-demo\\openshift-demo\\openshift-demo.csproj",
         "projectName": "openshift-demo",
-        "projectPath": "C:\\Users\\H413495\\source\\repos\\openshift-demo\\openshift-demo.csproj",
-        "packagesPath": "C:\\Users\\H413495\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\H413495\\source\\repos\\openshift-demo\\obj\\",
+        "projectPath": "C:\\Users\\h413495\\source\\repos\\openshift-demo\\openshift-demo\\openshift-demo.csproj",
+        "packagesPath": "C:\\Users\\h413495\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h413495\\source\\repos\\openshift-demo\\openshift-demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\H413495\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\h413495\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
